@@ -1,0 +1,29 @@
+student 1 : {
+name = jay
+course = btech
+section = fa
+}
+
+student 2 : {
+name = palak
+course = btech
+section  = fa
+}
+
+student 3 : {
+name = gauri
+course = btech
+section = fa
+}
+
+student 4 : {
+name = nitin
+course = btech
+section = fa
+}
+
+student 5 : {
+name = kanak
+course = btech
+section = fa
+}
