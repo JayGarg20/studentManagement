@@ -27,3 +27,15 @@ name = kanak
 course = btech
 section = fa
 }
+
+student 6 : {
+name = vishesh
+course = btech
+section = fa3
+}
+
+student 7 : {
+name = sahil
+course = btech
+section = fa3
+}
